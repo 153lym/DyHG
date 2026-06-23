@@ -16,8 +16,11 @@ In the experiments, the GPU we used was NVIDIA RTX A6000.
 
 ### ST raw dataset download
 The DLPFC dataset with 10x Visium platform is accessible within the spatialLIBD package (http://spatial.libd.org/spatialLIBD). 
+
 The mouse & human liver (10X_MOUSE& 10X_HUMAN) dataset with 10x Visium platform is collected from https://www.livercellatlas.org/. 
+
 The mouse medial prefrontal cortex (MMPC) dataset with STARmap platform is collected from http://clarityresourcecenter.org/. 
+
 The MOSTA hypothalamic preoptic region with Stereo platform is collected from https://db.cngb.org/stomics/mosta/. 
 
 ### Run DyHG
