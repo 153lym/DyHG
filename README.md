@@ -1,6 +1,6 @@
 # DyHG
 
-Fusing High-Order Topology Hypergraphs and Dynamic Semantics Network for Spatial Domain Identification
+Capturing High-Order Topology and Dynamic Semantic for Spatial Domain Identification
 
 ## Overview:
 
@@ -36,4 +36,4 @@ During the experiment, we set the range of [0, 10] for both.
 ## Citation:
 **This repository contains the source code for the paper:**
 
-`Fusing High-Order Topology Hypergraphs and Dynamic Semantics Network for Spatial Domain Identification`
+`Capturing High-Order Topology and Dynamic Semantic for Spatial Domain Identification`
